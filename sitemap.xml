@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://iamcarrico.com/writings/why-is-sxsw-so-succesful</loc>
+    <lastmod>2014-03-06T03:00:00-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://iamcarrico.com/writings/mobile-sites-are-over</loc>
+    <lastmod>2014-02-12T06:00:00-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://iamcarrico.com/writings/i-am-no-designer</loc>
+    <lastmod>2013-05-13T07:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://iamcarrico.com/404.html</loc>
+    <lastmod>2014-08-08T18:12:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://iamcarrico.com/contact/</loc>
+    <lastmod>2014-08-08T18:12:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://iamcarrico.com/talks/</loc>
+    <lastmod>2014-08-08T18:12:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://iamcarrico.com/</loc>
+    <lastmod>2014-08-08T18:12:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://iamcarrico.com/about/</loc>
+    <lastmod>2014-08-08T18:12:46-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://iamcarrico.com/talks/2013/power-theming-drupal/</loc>
+    <lastmod>2013-01-14T05:00:00-06:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://iamcarrico.com/talks/2013/brining-magic-back/</loc>
+    <lastmod>2013-06-22T10:00:00-05:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://iamcarrico.com/talks/2013/take-the-pain-out-of-sass/</loc>
+    <lastmod>2013-10-13T06:00:00-05:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://iamcarrico.com/talks/2014/tips-and-tricks-with-sass/</loc>
+    <lastmod>2014-08-08T06:00:00-05:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  
+</urlset>
