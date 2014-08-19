@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
-		<title>I. Am. Carrico.</title>
+		<title></title>
 		<description></description>
 		<link>http://iamcarrico.com</link>
 		
 			<item>
 				<title>Jekyll Workflow Part 1: Building a Site</title>
-				<description>&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; has become one of the best static site generators, rising to popularity in no small part because of its use on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. It is incredibly simple and easy to begin making awesome static sites or blogs, with very little effort. This month I am doing a 4 part series of blog posts on how to create, deploy and automate a site on Jekyll, all while ensuring it is as performant as possible. These tools are all used on my own site and several smaller sites that I have worked on. The code is all available on GitHub.&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;/img/2014/jekyll.png&quot; alt=&quot;Jekyll.rb&quot;&gt;
+&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; has become one of the best static site generators, rising to popularity in no small part because of its use on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. It is incredibly simple and easy to begin making awesome static sites or blogs, with very little effort. This month I am doing a 4 part series of blog posts on how to create, deploy and automate a site on Jekyll, all while ensuring it is as performant as possible. These tools are all used on my own site and several smaller sites that I have worked on. The code is all available on GitHub.&lt;/p&gt;
 
 &lt;h2 id=&quot;creating-a-site&quot;&gt;Creating a site&lt;/h2&gt;
 
